@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+img{
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+}
+
+a{
+    background-color: rgb(226, 17, 111);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+h1,h2,h3,h4,h5,h6,p {
+    text-align: center;
+    color: white;
+}
